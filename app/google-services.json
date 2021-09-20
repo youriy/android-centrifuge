@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118471362877",
+    "project_id": "avtoopt-monitor",
+    "storage_bucket": "avtoopt-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118471362877:android:692f55f5f908d3d60f9d54",
+        "android_client_info": {
+          "package_name": "com.avtoopt.monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118471362877-ri9f56g2pod1jhtmqkdjtg0f020aan9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvi9U9W7oJNisNmAeCdWGcJ33ZIgdEgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118471362877-ri9f56g2pod1jhtmqkdjtg0f020aan9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

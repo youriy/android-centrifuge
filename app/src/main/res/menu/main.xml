@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/search"
+        android:title="@string/search"
+        android:icon="@drawable/ic_baseline_search"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_3_coll"
+        android:orderInCategory="100"
+        android:title="@string/tree_coll"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_4_coll"
+        android:orderInCategory="100"
+        android:title="@string/for_coll"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_5_coll"
+        android:orderInCategory="100"
+        android:title="@string/five_coll"
+        app:showAsAction="never" />
+
+</menu>
